@@ -31,7 +31,7 @@ INSTALL_REQUIRE = [
     "optimum~=2.3.0",
     "transformers>=4.51,<5.11",
     "setuptools",
-    "huggingface-hub>=0.23.2,<2.0",
+    "huggingface-hub>=0.23.2,<3.0",
     "nncf>=3.3.0",
     "openvino>=2026.0",
     "openvino-tokenizers>=2026.0",
